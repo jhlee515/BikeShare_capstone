@@ -18,6 +18,6 @@ The purpose of this project is to analyze Capital BikeShare's usage trends and f
 
 ## Results
 Since Capital BikeShare's inception in 2010, there has been an almost linear increase in usage, with peak ridership occurring in 2018. Ridership decreased significantly in 2020 due to COVID-19 and work from home regulations. Evidently, there is a clear element of seasonality in usage every year; ridership is low in the beginning of the year with peak ridership occurring during the summer time of the years and falling back down in the fall/winter times of every year. 
-![Monthly Average](https://github.com/jhlee515/BikeShare_capstone/blob/master/figs/monthly_avg.png)
+<img src="https://github.com/jhlee515/BikeShare_capstone/blob/master/figs/monthly_avg.png" width = 300>
 
 
